@@ -1,4 +1,4 @@
-# Storage Estimator - Feature Version
+# Storage Estimator - Main Version
 
 A simple program to help calculate and estimate storage requirements.
 
